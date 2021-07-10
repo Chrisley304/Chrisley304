@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Chrisley304's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisley304&show_icons=true&theme=merko)
-
 
 
 <!--
