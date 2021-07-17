@@ -23,5 +23,4 @@ If you want to contact me, you can send me a dm on IG:
 
 Or you can conect with me on LinkedIn or email:
 - 👔 [LinkedIn](https://www.linkedin.com/in/chrisley304)
-- chrisley.ing@gmail.com
-
+- ✉ chrisley.ing@gmail.com
