@@ -1,18 +1,27 @@
-### Hi there 👋
+# Hi! I am Christian Leyva 💻🤯
+Welcome to my Github :octocat: README 📖
 
+I am a beginner developer with creative solutions to problems and learning a lot in the process of developing some projects.
 
+You can see more about me in [my webpage.](https://portfolio.chrisley.codes)
 
-<!--
-**Chrisley304/Chrisley304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some things I'm actually doing:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: My semester haha.
+- 📚 I’m currently learning: [Flutter](https://flutter.dev/) and some Backend Frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun facts:
+
+- I like emojiss 💜.
+- I love star wars and marvel movies ✨.
+- I like play videogames with friends 🎮.
+
+## Social media:
+
+If you want to contact me, you can send me a dm on IG:
+- 📷 [Instagram](https://www.instagram.com/chrisley304)
+
+Or you can conect with me on LinkedIn or email:
+- 👔 [LinkedIn](https://www.linkedin.com/in/chrisley304)
+- chrisley.ing@gmail.com
+
