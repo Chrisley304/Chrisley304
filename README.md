@@ -12,7 +12,6 @@ You can see more about me in [my webpage.](https://portfolio.chrisley.codes)
 
 ## Fun facts:
 
-- I like emojiss 💜.
 - I love star wars and marvel movies ✨.
 - I like play videogames with friends 🎮.
 
