@@ -18,7 +18,7 @@ You can see more about me in [my webpage.](https://portfolio.chrisley.codes)
 ## Social media:
 
 If you want to contact me, you can send me a dm on IG:
-- 📷 [Instagram](https://www.instagram.com/chrisley304)
+- 📷 [Instagram](https://www.instagram.com/el_chrisley)
 
 Or you can conect with me on LinkedIn or email:
 - 👔 [LinkedIn](https://www.linkedin.com/in/chrisley304)
