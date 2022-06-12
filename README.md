@@ -8,7 +8,7 @@ You can see more about me in [my webpage.](https://portfolio.chrisley.codes)
 ## Some things I'm actually doing:
 
 - 🔭 I’m currently working on: My semester haha.
-- 📚 I’m currently learning: [Flutter](https://flutter.dev/) and UX/UI Design.
+- 📚 I’m currently learning: [Flutter](https://flutter.dev/), [Gatsby](https://www.gatsbyjs.com/), [Swift](https://github.com/apple/swift) and UX/UI Design.
 
 ## Fun facts:
 
