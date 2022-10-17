@@ -12,7 +12,7 @@ I'm a passionate software engineer from Mexico City 🇲🇽. Principally focuse
 
 - 🌱 I’m currently learning: **[Flutter](https://flutter.dev/), [React](https://reactjs.org/) and [Swift UI](https://developer.apple.com/xcode/swiftui/)**.
 
-- 👨‍💻 A description of all my past projects are available [here](chrisley.dev/portfolio).
+- 👨‍💻 A description of all my past projects are available [here](https://chrisley.dev/portfolio).
 
 - 💡 Always open to **collaborating** on projects and innovative ideas.
 
