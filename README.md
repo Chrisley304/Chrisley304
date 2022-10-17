@@ -2,23 +2,32 @@
 
 <a href="https://chrisley.dev"><img src="assets/img/GithubBanner.png"></a>
 
-<img alt="Hand Wave" height="40px" width="auto" src="./assets/gif/hellothere.gif" width="px" align="left"/><h1 style="margin-left: 10px"> I'm Christian Leyva</h2>
+# <img alt="Hand Wave" height="50px" width="auto" src="./assets/gif/hellothere.gif"/> I'm Christian Leyva
 
 ## About me 🤔
 
 I'm a passionate software engineer from Mexico City 🇲🇽. Principally focused on the Frontend Development, UI/UX Design and Mobile Development.
 
+- 📖 Pursuing my Bachelor's in Computer Engineering from [*School of Engineering, UNAM*](https://www.ingenieria.unam.mx/EN/).
+
 - 🌱 I’m currently learning: **[Flutter](https://flutter.dev/), [React](https://reactjs.org/) and [Swift UI](https://developer.apple.com/xcode/swiftui/)**.
 
 - 👨‍💻 A description of all my past projects are available [here](chrisley.dev/portfolio).
 
+- 💡 Always open to **collaborating** on projects and innovative ideas.
+
 - 📫 You can reach me with a email: **chris@chrisley.dev**
 
-## Lastest blog posts
+- 🧠 I'm member of [SIAFI](https://www.siafi-unam.com.mx/) a AI development community from *School of Engineering, UNAM*
+
+## Lastest blog posts ✍🏻
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me
+## Connect with me :)
+
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
 <p align="left">
 <a href="https://linkedin.com/in/chrisley304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrisley304" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13315650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13315650" height="30" width="40" /></a>
