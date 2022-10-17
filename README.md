@@ -38,6 +38,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Lastest blog posts ✍🏻
 <!-- BLOG-POST-LIST:START -->
+- [Mis notas al aprender a utilizar GatsbyJS](https://chrisley.dev/blog/mis-notas-al-aprender-a-utilizar-gatsbyjs/)
 <!-- BLOG-POST-LIST:END -->
 
 
