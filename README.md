@@ -2,7 +2,7 @@
 
 <a href="https://chrisley.dev"><img src="assets/img/GithubBanner.png"></a>
 
-<img alt="Hand Wave" src="./assets/gif/hellothere.gif" width='40' align="left"/><h1>Hello there! I'm Christian Leyva</h2>
+<img alt="Hand Wave" height="40px" width="auto" src="./assets/gif/hellothere.gif" width='40' style="padding-right: 10px" align="left"/><h1> I'm Christian Leyva</h2>
 
 ## About me 🤔
 
