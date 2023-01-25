@@ -47,5 +47,5 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Stats 📈
 <p align="center">
-    <img width="48%"src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisley304&show_icons=true&locale=en&layout=compact" alt="chrisley304" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisley304&show_icons=true&locale=en" alt="chrisley304" /></p>
+    <img width="48%"src="https://readmestats.999857.xyz/api/top-langs?username=chrisley304&show_icons=true&locale=en&layout=compact" alt="chrisley304" />
+    <img width="50%" src="https://readmestats.999857.xyz/api?username=chrisley304&show_icons=true&locale=en" alt="chrisley304" /></p>
