@@ -10,7 +10,7 @@ I'm a passionate software engineer from Mexico City 🇲🇽. Principally focuse
 
 - 📖 Pursuing my Bachelor's in Computer Engineering from [*School of Engineering, UNAM*](https://www.ingenieria.unam.mx/EN/).
 
-- 🌱 I’m currently learning: **[Flutter](https://flutter.dev/), [React](https://reactjs.org/) and [Swift UI](https://developer.apple.com/xcode/swiftui/)**.
+- 🌱 I’m currently learning about software architectures, CI/CD & Good Practices!
 
 - 👨‍💻 A description of all my past projects are available [here](https://chrisley.dev/portfolio).
 
@@ -18,7 +18,7 @@ I'm a passionate software engineer from Mexico City 🇲🇽. Principally focuse
 
 - 📫 You can reach me with a email: **chris@chrisley.dev**
 
-- 🧠 I'm member of [SIAFI](https://www.siafi-unam.com.mx/) a AI development community from *School of Engineering, UNAM*
+- 🧠 I was member of [SIAFI](https://www.siafi-unam.com.mx/) a AI development community from *School of Engineering, UNAM* & I was a [Notion](https://www.notion.com) Campus Leader on my college
 
 ## Connect with me :)
 
@@ -35,6 +35,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 ## Collaborated on
 
 - [Gatsby Theme Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
+- [SIAFI Website](https://github.com/SIAFI-UNAM/siafi-website)
 
 ## Lastest blog posts ✍🏻
 <!-- BLOG-POST-LIST:START -->
